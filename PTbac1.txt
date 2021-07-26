@@ -5,7 +5,7 @@ int main (void)
 {
     float a,b;
     printf("nhap vao he so a :\n "); scanf("%f", &a);
-    printf("nhap vao he so b :\n"); scanf("%f", &b);
+    printf("nhap vao he so b    :\n"); scanf("%f", &b);
 
     if(a == 0)
     {
